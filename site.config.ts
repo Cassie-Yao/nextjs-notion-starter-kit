@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'e4f431893e704185a4669b1255f48829',
+  rootNotionPageId: 'a5b626340ac14bdca375fd865738f58d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '鳗鱼中裤女士的摄影集',
-  domain: 'https://shade-canopy-ff7.notion.site/Design-Mood-Board-e4f431893e704185a4669b1255f48829?pvs=4',
+  domain: 'https://western-tea-49c.notion.site/9d05409f1c5345ed93cf7680263a01a7?v=a5b626340ac14bdca375fd865738f58d&pvs=4',
   author: 'Yao',
 
   // open graph metadata (optional)
