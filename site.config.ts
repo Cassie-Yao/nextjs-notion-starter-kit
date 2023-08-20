@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '鳗鱼中裤女士的摄影集',
+  name: '摄影集',
   domain: 'https://western-tea-49c.notion.site/9d05409f1c5345ed93cf7680263a01a7?v=a5b626340ac14bdca375fd865738f58d&pvs=4',
   author: 'Yao',
 
